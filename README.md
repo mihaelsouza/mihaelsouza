@@ -1,16 +1,18 @@
-### Hi there 👋
+### Greetings and Salutations, 👋
 
-<!--
-**mihaelsouza/mihaelsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mihael, and I'm a researcher turned into Software Developer. 
 
-Here are some ideas to get you started:
+Over time I realized that most of the accomplishments I was proud of from my time in academia were coding/software related,
+so I thought it was about time to take the plunge into this vast universe of software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about data, probably because I've dealt with a lot of it during my research 😅, and fascinated about machine learning and AI.
+I started learning programming with MATLAB and R, but really fell in love with it when I started using Python.
+
+I'm currently invested in getting better with full-stack development 🌱 using technologies under the TypeScript/JavaScript umbrella. 
+I want to keep building interesting models and data-driven applications using Python and Tensorflow/Keras on the backend, and make them available to user on the browser and mobile.
+
+Want to collaborate? 👯
+Hit me up and let's build cool things together!
+
+Nice to meet you :bowtie:
+---
